@@ -1,9 +1,9 @@
 <script setup>
-import ReactivityFundamentals from './components/ReactivityFundamentals.vue';
+import ComputedProperties from './components/ComputedProperties.vue';
 </script>
 
 <template>
-  <ReactivityFundamentals/>
+  <ComputedProperties />
 </template>
 
 <style scoped>
