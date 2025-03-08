@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { computed, reactive, ref } from 'vue';
-import Pcomponent from '../module/pcomponent';
 
 // Bind a class to an element with ref
 const msgRef = ref('Message Ref');

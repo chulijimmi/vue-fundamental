@@ -1,9 +1,9 @@
 <script setup>
-import ClassAndStyleBinding from './components/ClassAndStyleBinding.vue';
+import ConditionalRendering from './components/ConditionalRendering.vue';
 </script>
 
 <template>
-  <ClassAndStyleBinding />
+  <ConditionalRendering />
 </template>
 
 <style scoped>
