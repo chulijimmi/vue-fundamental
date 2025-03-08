@@ -1,9 +1,9 @@
 <script setup>
-import ReactiveDoc from './components/ReactiveDoc.vue';
+import ReactivityFundamentals from './components/ReactivityFundamentals.vue';
 </script>
 
 <template>
-  <ReactiveDoc/>
+  <ReactivityFundamentals/>
 </template>
 
 <style scoped>
