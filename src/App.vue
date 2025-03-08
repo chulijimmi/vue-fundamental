@@ -1,9 +1,9 @@
 <script setup>
-import ComputedProperties from './components/ComputedProperties.vue';
+import ClassAndStyleBinding from './components/ClassAndStyleBinding.vue';
 </script>
 
 <template>
-  <ComputedProperties />
+  <ClassAndStyleBinding />
 </template>
 
 <style scoped>
