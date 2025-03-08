@@ -48,6 +48,15 @@ console.log(colJump.id + 1); // '[object Object]1'
 const { id } = colJump;
 console.log(id + 1); // '[object Object]1'
 console.log(id.value + 1); // 1
+
+/**
+ * Conclusion:
+ * Use ref when want to use primitive types such as string, number, boolean.
+ * Use ref when replacing entire object.
+ * Use ref when want to declaring reactive state.
+ * Use reactive when want to use object with multiple properties without replacing entire object.
+ * Use reactive when want to use object with multiple properties without declaring reactive state.
+ */
 </script>
 <template>
   <div>
