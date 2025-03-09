@@ -1,9 +1,9 @@
 <script setup>
-import TemplateRef from './components/TemplateRef.vue';
+import ComponentsBasic from './components/ComponentsBasic.vue';
 </script>
 
 <template>
-  <TemplateRef />
+  <ComponentsBasic />
 </template>
 
 <style scoped>
