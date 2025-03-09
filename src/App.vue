@@ -1,9 +1,9 @@
 <script setup>
-import ListRendering from './components/ListRendering.vue';
+import EventHandling from './components/EventHandling.vue';
 </script>
 
 <template>
-  <ListRendering />
+  <EventHandling />
 </template>
 
 <style scoped>
