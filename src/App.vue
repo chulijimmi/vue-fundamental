@@ -1,9 +1,9 @@
 <script setup>
-import ComponentsBasic from './components/ComponentsBasic.vue';
+import LifecycleHook from './components/LifecycleHook.vue';
 </script>
 
 <template>
-  <ComponentsBasic />
+  <LifecycleHook />
 </template>
 
 <style scoped>
