@@ -1,9 +1,9 @@
 <script setup>
-import EventHandling from './components/EventHandling.vue';
+import FormInputBinding from './components/FormInputBinding.vue';
 </script>
 
 <template>
-  <EventHandling />
+  <FormInputBinding />
 </template>
 
 <style scoped>
