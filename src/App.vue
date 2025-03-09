@@ -1,9 +1,9 @@
 <script setup>
-import FormInputBinding from './components/FormInputBinding.vue';
+import TemplateRef from './components/TemplateRef.vue';
 </script>
 
 <template>
-  <FormInputBinding />
+  <TemplateRef />
 </template>
 
 <style scoped>
